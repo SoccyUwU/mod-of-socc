@@ -1,0 +1,3 @@
+displayName = Socc Reference
+author = SoccyUwU
+version = 0.2

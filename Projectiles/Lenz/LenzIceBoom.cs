@@ -48,7 +48,7 @@ namespace BTDsex.Projectiles
         //severely slow enemies hit
         public override void OnHitNPC(NPC target, int damage, float knockback, bool crit)
         {
-            target.honeyWet = true;
+            //unless I can't figure out how to do it just yet
         }
 
         //spawn the second burst of explosion on hit

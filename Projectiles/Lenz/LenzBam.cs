@@ -32,7 +32,9 @@ namespace BTDsex.Projectiles
         //get rid of the slow in case the enemies haven't died by now
         public override void OnHitNPC(NPC target, int damage, float knockback, bool crit)
         {
-            target.honeyWet = false;
+            //apparently enemies aren't affected by honey
+            //and marking them wet don't apply water physics
+            //so fuck this idea
         }
 
         //quick fade in-out

@@ -17,7 +17,7 @@ namespace BTDsex.Items
         {
             DisplayName.SetDefault("Lenz");
             Tooltip.SetDefault("Delivers an icy one-two punch followed by an explosion\n" +
-                "\'The bow seems to be sentient, repeating tales of a distant past...\'\n" +
+                "\'The bow seems to be sentient, chanting tales of a distant past...\'\n" +
                 "Look at them, they come to this place when they know they're not pure.\n" +
                 "Terrarians use the keys, but they are mere trespassers.\n" +
                 "Only I, Vor, know the true power of the Void.\n" +
